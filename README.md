@@ -12,11 +12,11 @@
 <h5>This project is a kahoot clone that uses nodejs and mongodb</h5>
 <h5>Multiple games can be ongoing at one time and works with many players per game</h5>
 <h3>Screen Shots:</h3>
-<img src="Screenshots/join.png" height="200" width="auto" alt="Player Join"/>
-<img src="Screenshots/hostJoin.png" height="200" width="auto" alt="Host Lobby"/>
-<img src="Screenshots/player.png" height="200" width="auto" alt="Player"/>
-<img src="Screenshots/questionResults.png" height="200" width="auto" alt="Question Results"/>
-<img src="Screenshots/hostQuestion.png" height="200" width="auto" alt="Host Question"/>
-<img src="Screenshots/incorrect.png" height="200" width="auto" alt="Player Results"/>
+<img src="geekysaquib/Kahoot-NodeJS/blob/master/kahoot-clone-nodejs-master/Screenshots/join.png" height="200" width="auto" alt="Player Join"/>
+<img src="geekysaquib/Kahoot-NodeJS/blob/master/kahoot-clone-nodejs-master/Screenshots/hostJoin.png" height="200" width="auto" alt="Host Lobby"/>
+<img src="geekysaquib/Kahoot-NodeJS/blob/master/kahoot-clone-nodejs-master/Screenshots/player.png" height="200" width="auto" alt="Player"/>
+<img src="geekysaquib/Kahoot-NodeJS/blob/master/kahoot-clone-nodejs-master/Screenshots/questionResults.png" height="200" width="auto" alt="Question Results"/>
+<img src="geekysaquib/Kahoot-NodeJS/blob/master/kahoot-clone-nodejs-master/Screenshots/hostQuestion.png" height="200" width="auto" alt="Host Question"/>
+<img src="geekysaquib/Kahoot-NodeJS/blob/master/kahoot-clone-nodejs-master/Screenshots/incorrect.png" height="200" width="auto" alt="Player Results"/>
 
 <h3>This Project is Designed by Mohammad Saquib Khan</h3>
